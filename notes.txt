@@ -3,5 +3,10 @@ This comment is from local repository
 
 This comment is for homework_2 branch from local repository (point 3 from HW task)
 
+
 # ********************************
 This resolves issue_2 from homework_3
+
+# ----------------------------------------------------------------
+Resolving issue_1 from homework_3 task
+
